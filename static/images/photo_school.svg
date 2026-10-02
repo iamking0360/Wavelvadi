@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" width="100%" height="100%">
+  <rect width="800" height="500" fill="#FEF3C7"/>
+  <rect x="150" y="150" width="500" height="250" fill="#FFFFFF" stroke="#B45309" stroke-width="4" rx="8"/>
+  <polygon points="120,150 400,60 680,150" fill="#B45309"/>
+  <rect x="200" y="200" width="80" height="80" fill="#38BDF8" rx="4"/>
+  <rect x="520" y="200" width="80" height="80" fill="#38BDF8" rx="4"/>
+  <rect x="360" y="240" width="80" height="160" fill="#78350F" rx="4"/>
+  <text x="400" y="125" font-family="'Noto Sans Devanagari', sans-serif" font-size="22" fill="#FFFFFF" text-anchor="middle" font-weight="bold">डिजिटल प्राथमिक शाळा वावेलवाडी</text>
+</svg>

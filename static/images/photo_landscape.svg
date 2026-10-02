@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" width="100%" height="100%">
+  <rect width="800" height="500" fill="#E0F2FE"/>
+  <path d="M-50,350 Q180,180 400,320 T850,250 L850,500 L-50,500 Z" fill="#047857"/>
+  <path d="M-50,400 Q280,260 550,380 T850,350 L850,500 L-50,500 Z" fill="#15803D"/>
+  <path d="M380,240 Q390,320 385,500" stroke="#38BDF8" stroke-width="14" fill="none"/>
+  <path d="M385,240 Q395,320 390,500" stroke="#FFFFFF" stroke-width="6" fill="none"/>
+  <text x="400" y="460" font-family="'Noto Sans Devanagari', sans-serif" font-size="20" fill="#FFFFFF" text-anchor="middle" font-weight="bold">वावेलवाडी धबधबा व निसर्ग सौंदर्य</text>
+</svg>

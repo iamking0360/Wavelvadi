@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" width="100%" height="100%">
+  <rect width="800" height="500" fill="#ECFDF5"/>
+  <circle cx="400" cy="180" r="110" fill="#FDE68A" opacity="0.7"/>
+  <path d="M0,300 Q200,240 400,310 T800,280 L800,500 L0,500 Z" fill="#15803D"/>
+  <path d="M0,360 Q300,320 600,380 T800,350 L800,500 L0,500 Z" fill="#166534"/>
+  <line x1="100" y1="500" x2="350" y2="350" stroke="#A3E635" stroke-width="4" stroke-dasharray="10 10"/>
+  <line x1="250" y1="500" x2="420" y2="350" stroke="#A3E635" stroke-width="4" stroke-dasharray="10 10"/>
+  <line x1="400" y1="500" x2="490" y2="350" stroke="#A3E635" stroke-width="4" stroke-dasharray="10 10"/>
+
+  <circle cx="400" cy="220" r="45" fill="#B45309" opacity="0.9"/>
+  <polygon points="390,200 420,220 390,240" fill="#FFFFFF"/>
+  <text x="400" y="440" font-family="'Noto Sans Devanagari', sans-serif" font-size="20" fill="#FFFFFF" text-anchor="middle" font-weight="bold">वावेलवाडी सेंद्रिय शेती व्लॉग</text>
+</svg>

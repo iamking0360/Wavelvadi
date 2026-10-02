@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" width="100%" height="100%">
+  <rect width="800" height="500" fill="#0F172A"/>
+  <!-- Street & Lamp Posts -->
+  <line x1="0" y1="420" x2="800" y2="420" stroke="#334155" stroke-width="8"/>
+
+  <!-- Solar Pole 1 -->
+  <rect x="250" y="160" width="12" height="260" fill="#94A3B8"/>
+  <polygon points="210,130 300,130 290,160 220,160" fill="#0284C7" stroke="#BAE6FD" stroke-width="2"/>
+  <circle cx="256" cy="175" r="25" fill="#FDE047" opacity="0.8"/>
+
+  <!-- Solar Pole 2 -->
+  <rect x="550" y="160" width="12" height="260" fill="#94A3B8"/>
+  <polygon points="510,130 600,130 590,160 520,160" fill="#0284C7" stroke="#BAE6FD" stroke-width="2"/>
+  <circle cx="556" cy="175" r="25" fill="#FDE047" opacity="0.8"/>
+
+  <text x="400" y="470" font-family="'Noto Sans Devanagari', sans-serif" font-size="20" fill="#FDE047" text-anchor="middle" font-weight="bold">सौर पथदिवे प्रकल्प २०२६ (Solar Street Lights)</text>
+</svg>
